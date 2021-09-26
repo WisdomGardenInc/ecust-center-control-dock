@@ -1,0 +1,21 @@
+roomis:
+  orgid: 1
+  db:
+    host: localhost
+    port: 3336
+    database: tczj_roomis
+    username: root
+    password: 7A4A3336n9YwT824
+room-devices:
+  connect-timeout: 5
+  retry-times: 2
+  center-control-info:
+    - 1#172.20.151.30#smartroom1_system_on
+    - 2#172.20.151.40#smartroom2_system_on
+    - 3#172.20.151.60#room1_system_on
+    - 4#172.20.151.60#room2_system_on
+    - 5#172.20.151.60#room3_system_on
+    - 6#172.20.151.60#room4_system_on
+    - 7#172.20.151.60#room5_system_on
+    - 8#172.20.151.60#room6_system_on
+    - 9#172.20.151.60#room7_system_on
